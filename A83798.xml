@@ -1,0 +1,193 @@
+<TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>The Commons petitjon to the King in defence of Mr. Pym. Answering those seuen articles whereof hee was impeached. Being a commendable vindication of those seven articles, wherein Mr. Pym was lately accused. Shewing how his good endeavours for the benefit and safety of this kingdome, and his affectionate zeale for the publique prosperity of this realme have bin misconstrued. Expressing the great love, and singular affection of the Commons to him, who have petitioned to the King, in answer of those articles against him, beseeching His Majesty to remit, and excuse him, being not guilty of the same.</title>
+            <author>England and Wales. Parliament. House of Commons.</author>
+         </titleStmt>
+         <editionStmt>
+            <edition>
+               <date>1641</date>
+            </edition>
+         </editionStmt>
+         <extent>Approx. 8 KB of XML-encoded text transcribed from 3 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2011-12">2011-12 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A83798</idno>
+            <idno type="STC">Wing E2679</idno>
+            <idno type="STC">Thomason E181_43</idno>
+            <idno type="STC">ESTC R8303</idno>
+            <idno type="EEBO-CITATION">99873274</idno>
+            <idno type="PROQUEST">99873274</idno>
+            <idno type="VID">125739</idno>
+            <availability>
+               <p>To the extent possible under law, the Text Creation Partnership has waived all copyright and related or neighboring rights to this keyboarded and encoded edition of the work described above, according to the terms of the CC0 1.0 Public Domain Dedication (http://creativecommons.org/publicdomain/zero/1.0/). This waiver does not extend to any page images or other supplementary files associated with this work, which may be protected by copyright or other license restrictions. Please go to https://www.textcreationpartnership.org/ for more information about the project.</p>
+            </availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online.</title>
+         </seriesStmt>
+         <notesStmt>
+            <note>(EEBO-TCP ; phase 2, no. A83798)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 125739)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 32:E181[43])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>The Commons petitjon to the King in defence of Mr. Pym. Answering those seuen articles whereof hee was impeached. Being a commendable vindication of those seven articles, wherein Mr. Pym was lately accused. Shewing how his good endeavours for the benefit and safety of this kingdome, and his affectionate zeale for the publique prosperity of this realme have bin misconstrued. Expressing the great love, and singular affection of the Commons to him, who have petitioned to the King, in answer of those articles against him, beseeching His Majesty to remit, and excuse him, being not guilty of the same.</title>
+                  <author>England and Wales. Parliament. House of Commons.</author>
+               </titleStmt>
+               <extent>[8] p. : ill.  </extent>
+               <publicationStmt>
+                  <publisher>Printed for William Bond,</publisher>
+                  <pubPlace>London :</pubPlace>
+                  <date>1641.[i.e. 1642]</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>Signatures: A⁴.</note>
+                  <note>Portrait verso of last leaf.</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,368 texts created during Phase 1 of the project (2000-2009), initially available only to institutions that contributed to their creation, were released into the public domain on 1 January 2015. The approximately 40,000 texts produced during Phase 2 (2009- ), of which 34,963 had been released as of 2020, originally similarly restricted, were similarly freed from all restrictions on 1 August 2020. As of that date anyone is free to take and use these texts for any purpose (modify them, annotate them, distribute them, etc.). But we do respectfully request that due credit and attribution be given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Keying and markup guidelines are available at the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp"
+                       matchPattern="([0-9\-]+):([0-9IVX]+)"
+                       replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char"
+                       matchPattern="(.+)"
+                       replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term>Pym, John, 1584-1643 --  Early works to 1800.</term>
+               <term>Impeachments --  England --  Early works to 1800.</term>
+               <term>Great Britain --  Politics and government --  1642-1649 --  Early works to 1800.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2009-03</date>
+            <label>TCP</label>Assigned for keying and markup</change>
+         <change>
+            <date>2009-04</date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Sampled and proofread</change>
+         <change>
+            <date>2010-04</date>
+            <label>John Pas</label>Text and markup reviewed and edited</change>
+         <change>
+            <date>2011-06</date>
+            <label>pfs</label>Batch review (QC) and XML conversion</change>
+      </revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:125739:1"/>
+            <pb facs="tcp:125739:1" rendition="simple:additions"/>
+            <p>THE COMMONS PETITJON TO THE KING In Defence of Mr. <hi>PYM.</hi> ANSWERING Thoſe Seuen Articles whereof hee was <hi>Impeached.</hi> Being a Commendable <hi>
+                  <g ref="char:V">Ʋ</g>indication</hi> of thoſe Seven Articles, wherein Mr. Pym was lately Accuſed.</p>
+            <p>Shewing how his good Endeavours for the benefit and ſafety of this Kingdome, and his affectionate Zeale for the publique Proſperity of this Realme have bin miſconſtrued.</p>
+            <p>Expreſſing the great Love, and ſingular Affection of the Commons to him, who have petitioned to the King, in Anſwer of thoſe Ar<g ref="char:EOLhyphen"/>ticles againſt him, beſeeching His Majeſty to remit, and excuſe him, being not guilty of the ſame.</p>
+            <p>
+               <hi>London,</hi> Printed for William Bond, 1641.</p>
+         </div>
+      </front>
+      <body>
+         <div type="petition">
+            <pb facs="tcp:125739:2"/>
+            <div n="1" type="article">
+               <head>An Anſvver to the <hi>1.</hi> Article againſt Mr. Pym, &amp;c.</head>
+               <p>The 1 Article was to this effect, that M. <hi>Pym</hi> (a<g ref="char:EOLhyphen"/>mongſt the other ſcilicet) hath traiterouſly endea<g ref="char:EOLhyphen"/>voured to ſubvert the fundamentall lawes, and go<g ref="char:EOLhyphen"/>vernment of <hi>England:</hi> this ſeemes contrary, in re<g ref="char:EOLhyphen"/>gard that hee ſolely did alwayes oppoſe any man, whom hee either found or could ſuſpect guilty of the ſame crime, and hath laboured rather to ratifie, and confirme the fundamentall lawes, the either ſubvert or confound the ſame. For in his Diurnall Speeches in the <hi>Parliament</hi> was alwayes ſpecified his reall intent, in the inſtitution, and not diminuti<g ref="char:EOLhyphen"/>on or ſubverſion of any law: which was not detri<g ref="char:EOLhyphen"/>mentall to the ſafety, and proſperity of this King<g ref="char:EOLhyphen"/>dome, In the ſame Article it is mentioned, that with all he hath indeavoured to deprive the King of His Royall power, and to place in ſubjects in arbitrary power over the Lives, Liberties, and Eſtates of His Majeſties liege people. To this your Petitioners an<g ref="char:EOLunhyphen"/>ſwer, that we have found him ſo diligent to advance your Majeſties royall Dignity and Crowne, that he hath ſeemed rather to ad, then in any wiſe to de<g ref="char:EOLhyphen"/>prive your Majeſty of any power, appertaining to your royall Selfe: and for the ſubſequent concluſi<g ref="char:EOLhyphen"/>on we find, that otherwiſe; for hee hath given his vote in the <hi>Houſe of Commons</hi> againſt the ſame. We proceed now to the 2. Article, <hi>viz.</hi> that he hath en<g ref="char:EOLhyphen"/>deavoured to lay many foule aſperſions upon His Majeſty, and his government to alienate the affecti<g ref="char:EOLhyphen"/>ons of his people, and to make his Majeſty odious unto them.</p>
+            </div>
+            <div n="2" type="article">
+               <pb facs="tcp:125739:2"/>
+               <head>The Anſwer to the ſecond Article.</head>
+               <p>To this your Petitioners preſume to anſwer thus: as in the former Article we have ſpecified the inte<g ref="char:EOLhyphen"/>grity of his mind, free from entertaining the leaſt thought of caſting aſperſions either on your Maje<g ref="char:EOLhyphen"/>ſties perſon or government: ſo likewiſe we do ſig<g ref="char:EOLhyphen"/>nifie his innocuous intent herein, that we could ne<g ref="char:EOLhyphen"/>ver heare, know, or perceive him at any time min<g ref="char:EOLhyphen"/>ded to alienate the affections of any of his people, &amp; if any perſon, or perſons will maintaine, or prove the ſame againſt him, or them, that he did indeavour to divert their affections from your Majeſty, hewill acknowledge himſelfe guilty thereof, and juſtly ac<g ref="char:EOLhyphen"/>cvſed for the ſame. But that he ſhould indeavour to make your Majeſty odious vnto any, it ſeems incre<g ref="char:EOLhyphen"/>dible; for your Petitioners know, that the hearts &amp; affectionss of your ſubjects, are ſo unitely fixed on you both in their prayers, hopes, and wiſhes, that we impartially beleeve, that no man would become ſo diſloyall, as to ſubſtract any reſpective obedience from your Majeſty, much leſſe that your owne roy<g ref="char:EOLhyphen"/>all perſon ſhould become odious unto them.</p>
+               <p>We now arrive at the 3. Articles, <hi>viz.</hi> That hee hath endeavoured to draw your Majeſties late Army into diſobedience to your Majeſties Commands, and to ſide with them in their trayterous deſignes.</p>
+            </div>
+            <div n="3" type="article">
+               <head>The Anſvver to the third Article.</head>
+               <p>Your Petitioners have found him alwayes very ſolicitous, and carefull of your Majeſties Army, ſtriving rather to bring them unto a regular obedi<g ref="char:EOLhyphen"/>ence, then to ſide with them in any trayterous de<g ref="char:EOLhyphen"/>ſigne.</p>
+               <pb facs="tcp:125739:3"/>
+               <p>And wee are confident hereof, that none of your Majeſties Army can prove, that he did ever ſeduce a<g ref="char:EOLhyphen"/>ny of them or ſuggeſt them unto any diſobedient diſorder, or agree to any deſigne whatſoever.</p>
+            </div>
+            <div n="4" type="article">
+               <head>The Anſvver to the fourth Article.</head>
+               <p>We come now to the 4. Article, wherein is decla<g ref="char:EOLhyphen"/>red, that he hath traytorouſly invited, &amp; incouraged a forreine power to invade his Majeſties kingdome of <hi>England.</hi> To this your Petitioners dare boldly ſay, that this nefarious invitation, and incouragment of a forreine power was never undertooke by him; for he hath bin very vigilant to preſerve, and defend this Kingdome in as great fortification as poſſibly might be, to the floriſhing proſperity of this whole Realme. And therefore he hath oftentimes expreſ<g ref="char:EOLhyphen"/>ſed his affection towards the ſafety of this Nation, and of ſtronger forces that ſhould be raiſed to keep out any forreine enemy or power, leaſt peradven<g ref="char:EOLhyphen"/>ture they ſteale upon us vnawares.</p>
+            </div>
+            <div n="5" type="article">
+               <p>In the Fifth Article he is impeached thus: that hee hath trayterouſly indeavoured to ſubvert the Rights, and very Being of Parliaments. To this wee may anſwer with great facility: hee was the chiefe cauſe that this <hi>Parliament</hi> was aſſembled, &amp; it ſeems very incongruous, that he ſhould ſubvert the ſame. Moreover he is the ſole man that ſtands for the an<g ref="char:EOLhyphen"/>tient Rights, and Liberties of the Parliaments, and it ſeemes a ſtupendious thing, that hee ſhould con<g ref="char:EOLhyphen"/>found the ſame.</p>
+               <p>In this reſpect your Petitioners dare ſpeak with confidence, that there was not one man in the Par<g ref="char:EOLhyphen"/>liament
+<pb facs="tcp:125739:3"/>houſe, who did ſtand more ſtrongly for the Rights of <hi>Parliaments,</hi> then Mr. <hi>Pym</hi> was. In their Article there is demonſtrated his arraignment, that for compleating of his trecherous deſigns, he hath indeavoured as far as in him lay by force, &amp; terrour to compell the Parliament, to joyn with him in his trayterous deſigns, and to that end hath actually rai<g ref="char:EOLhyphen"/>ſed, and countenanced tumults againſt the King, and Parliament. <hi>The Anſvver to the <hi>6.</hi> Article.</hi> To this it is anſwered, that no man in the <hi>Parliament</hi> can by coertion be compelled by any man to joyne with him in his aſſertion. And withall we ſuppoſe Mr. <hi>Pym</hi> is more judicious, then to urge and mans vote, or aſſent unto his deſign (if I may ſo ſpeake.) But for the tumultuous vp rotes made in the City, and Weſtminſter, <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>o one particular man can be ſuſpe<g ref="char:EOLhyphen"/>cted to have bin the Author thereof, for the tumult was promiſcuous.</p>
+               <p>And moreover Mr. <hi>Pym</hi> was the ſole cauſe that did ſup<g ref="char:EOLhyphen"/>preſſe<gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> them, therefore he co<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> in no regard countenance the <gap reason="illegible" resp="#PDCC" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>ind <gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap>ult. The 7. and l<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> Article is this, that he hath trayterouſly conſpired to ley<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>, and fifth actually leavied power againſt the King. To this wee can anſwer nothing to <gap reason="illegible" resp="#PDCC" extent="1 word">
+                     <desc>〈◊〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>awl<gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="1 span">
+                     <desc>〈…〉</desc>
+                  </gap> 
+                  <gap reason="illegible" resp="#PDCC" extent="3 letters">
+                     <desc>•••</desc>
+                  </gap>ly per<gap reason="illegible" resp="#PDCC" extent="4 letters">
+                     <desc>••••</desc>
+                  </gap> that hee was a man of greater fidelity, and greater Loy<gap reason="illegible" resp="#PDCC" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>ry to your Maje<g ref="char:EOLhyphen"/>ſty. Your Petitioners will not preſume to treſpaſſe too far on your element lenity: but doe with all humility, and re<g ref="char:EOLhyphen"/>ſpective loyalty preſent their <hi>Petition</hi> unto your Majeſtie, building our hopes on your judicious clemencie, that your Majeſty hath maturely conſidered of the perfect integrity of Mr. <hi>Pym,</hi> you will remit all: which will give great, and plenary ſatisfaction to the whole Commons.</p>
+            </div>
+         </div>
+         <closer>
+            <signed>And your Petitioners ſhall be bound for ever to pray.</signed>
+         </closer>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
